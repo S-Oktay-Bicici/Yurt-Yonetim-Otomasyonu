@@ -1,6 +1,3 @@
-# Yurt-Yonetim-Otomasyonu
-Yurt Yönetim Otomasyonu
-
 # Yurt Yönetim Otomasyonu
 C Sharp ile yazılan bu otomasyon özel veya devlet yurtları için kayıt sistemi öğrenci borç takibi ile beraberinde 
 giderlerin tutulduğu bir olanak sağlamakta 
